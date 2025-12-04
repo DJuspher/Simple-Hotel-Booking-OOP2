@@ -1,13 +1,13 @@
-Simple Hotel Booking System
+#Simple Hotel Booking System
 
 This is a C# Console Application built for managing simple hotel bookings.
 It supports adding guests, selecting rooms, computing prices, and generating receipts — all inside the console.
 
-🚀 Project Installation Guide
+🚀 ##Project Installation Guide
 
 Follow these steps to download, open, and run the project on your local machine.
 
-📌 Prerequisites
+📌 ##Prerequisites
 
 Make sure these are installed before running the program:
 
@@ -31,7 +31,7 @@ git --version
 If not, download here:
 🔗 https://git-scm.com/downloads
 
-📥 Installation Steps
+📥 ##Installation Steps
 1. Clone or Download the Project
 
 Clone with Git:
@@ -50,7 +50,7 @@ Simple Hotel Booking/
 │-- bin/
 │-- obj/
 
-▶️ How to Run the Program
+▶️ ##How to Run the Program
 Method 1 — Using Terminal
 
 Open the project folder in terminal:
@@ -62,7 +62,7 @@ Run the program:
 
 dotnet run
 
-❗ If you see this error:
+❗ ##If you see this error:
 Couldn't find a project to run.
 
 
