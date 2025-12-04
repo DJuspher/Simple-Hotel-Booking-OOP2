@@ -1,82 +1,88 @@
-📌 Simple Hotel Booking Console App
+Simple Hotel Booking System
 
-A C# Console Application demonstrating Core and Advanced OOP concepts, including:
+This is a C# Console Application built for managing simple hotel bookings.
+It supports adding guests, selecting rooms, computing prices, and generating receipts — all inside the console.
 
-Encapsulation
+🚀 Project Installation Guide
 
-Inheritance
+Follow these steps to download, open, and run the project on your local machine.
 
-Polymorphism
+📌 Prerequisites
 
-Abstraction
+Make sure these are installed before running the program:
 
-Partial Classes
+1. .NET SDK
 
-Generics & Collections
-
-Exception Handling
-
-File I/O (JSON)
-
-Delegates
-
-Events
-
-Lambda Expressions
-
-🚀 How to Run This Program
-1. Install .NET SDK (if not installed)
-
-Download and install the latest .NET SDK here:
-https://dotnet.microsoft.com/en-us/download
-
-To verify installation:
+Check if .NET is installed:
 
 dotnet --version
 
-2. Open the Project Folder
 
-Make sure your folder structure looks like this:
+If not installed, download here:
+🔗 https://dotnet.microsoft.com/en-us/download
 
+2. Git (optional, for cloning repo)
+
+Check if Git is installed:
+
+git --version
+
+
+If not, download here:
+🔗 https://git-scm.com/downloads
+
+📥 Installation Steps
+1. Clone or Download the Project
+
+Clone with Git:
+
+git clone https://github.com/DJuspher/Simple-Hotel-Booking-OOP2.git
+
+Or download manually:
+
+➡️ Code → Download ZIP → Extract the folder
+
+📂 Project Structure
 Simple Hotel Booking/
-│
-├── BookingApp/
-│   ├── BookingApp.csproj
-│   ├── Program.cs
-│   ├── Models/
-│   ├── Repositories/
-│   ├── Storage/
-│   ├── Helpers/
-│   ├── Events/
-│   ├── Exceptions/
-│   └── Data/
-│
-└── Simple Hotel Booking.sln
+│-- Program.cs
+│-- Models/
+│-- Services/
+│-- bin/
+│-- obj/
 
-3. Navigate to the Project Directory
+▶️ How to Run the Program
+Method 1 — Using Terminal
 
-You MUST navigate to the folder containing the .csproj file:
+Open the project folder in terminal:
 
-cd "Simple Hotel Booking/BookingApp"
+cd "C:\Code\BSIT3C\OOP2\Simple Hotel Booking"
 
 
-or full path:
-
-cd "C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp"
-
-4. Build the Application
-dotnet build
-
-
-You should see:
-
-Build succeeded
-
-5. Run the Application
-
-From inside the BookingApp folder:
+Run the program:
 
 dotnet run
 
+❗ If you see this error:
+Couldn't find a project to run.
 
-This will launch the console menu for the hotel booking system.
+
+It means you're not inside the folder containing .csproj.
+
+Run this to list files:
+
+dir
+
+
+If you don’t see a file like:
+
+SimpleHotelBooking.csproj
+
+
+go into the correct folder:
+
+cd SimpleHotelBooking
+
+
+Then run:
+
+dotnet run
