@@ -1,0 +1,12 @@
+[
+  {
+    "UserId": 7,
+    "PropertyId": 1,
+    "RoomId": 2,
+    "CheckIn": "2025-12-06T00:00:00",
+    "CheckOut": "2025-12-07T00:00:00",
+    "Guests": 3,
+    "TotalAmount": 120,
+    "Id": 8
+  }
+]

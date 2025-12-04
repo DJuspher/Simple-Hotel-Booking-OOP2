@@ -1,0 +1,14 @@
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\BookingApp.AssemblyInfoInputs.cache
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\BookingApp.AssemblyInfo.cs
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\BookingApp.csproj.CoreCompileInputs.cache
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\bin\Debug\net9.0\BookingApp.exe
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\bin\Debug\net9.0\BookingApp.deps.json
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\bin\Debug\net9.0\BookingApp.runtimeconfig.json
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\bin\Debug\net9.0\BookingApp.dll
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\bin\Debug\net9.0\BookingApp.pdb
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\BookingApp.dll
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\refint\BookingApp.dll
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\BookingApp.pdb
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\BookingApp.genruntimeconfig.cache
+C:\Code\BSIT3C\OOP2\Simple Hotel Booking\BookingApp\obj\Debug\net9.0\ref\BookingApp.dll

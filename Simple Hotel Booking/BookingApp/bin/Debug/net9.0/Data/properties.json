@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Seabreeze Hotel",
+    "Address": "123 Ocean Ave",
+    "Rooms": [
+      {
+        "Name": "101",
+        "Type": 0,
+        "PricePerNight": 120,
+        "IsAvailable": false,
+        "Id": 2
+      },
+      {
+        "Name": "102",
+        "Type": 1,
+        "PricePerNight": 200,
+        "IsAvailable": true,
+        "Id": 3
+      },
+      {
+        "Name": "201 - Suite",
+        "Type": 2,
+        "PricePerNight": 400,
+        "IsAvailable": true,
+        "Id": 4
+      }
+    ],
+    "Id": 1
+  },
+  {
+    "Name": "Mountain Inn",
+    "Address": "77 Ridge Rd",
+    "Rooms": [
+      {
+        "Name": "A1",
+        "Type": 0,
+        "PricePerNight": 90,
+        "IsAvailable": true,
+        "Id": 6
+      }
+    ],
+    "Id": 5
+  }
+]
